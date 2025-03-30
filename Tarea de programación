@@ -1,7 +1,4 @@
-Definir número mayor
-num1: 15
-num2: 42
-num3: 27 
+Definir número mayor 
 Si num1 > num2 y num1 > num2;entonces 
 escribir "el número es mayor es:"
 Sino 
